@@ -1,4 +1,4 @@
-[Next.js](https://nextjs.org/) and Typescript starter code configured with ESLint & Prettier.
+[Next.js](https://nextjs.org/) (Typescript) and Tailwind CSS starter code configured with ESLint & Prettier.
 
 ## Let's code 🚀
 
